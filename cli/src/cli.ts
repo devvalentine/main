@@ -635,6 +635,7 @@ Exit codes:
   6   pending
   7   failed
   8   error
+  For a full table of every exit code and which commands emit them, see the Exit codes section in cli/README.md.
 `
   return help.trim()
 }
