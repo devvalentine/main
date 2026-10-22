@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-720-feat-contracts-allow-reactivating-a-deprecated",
+    "fix/issue-640-test-frontend-cover-checkpointstorage",
+    "fix/issue-688-test-backend-add-unit-tests-for-worker-job",
+    "fix/issue-694-test-backend-add-flask-route-tests-for-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-720-feat-contracts-allow-reactivating-a-deprecated": "main",
+    "fix/issue-640-test-frontend-cover-checkpointstorage": "main",
+    "fix/issue-688-test-backend-add-unit-tests-for-worker-job": "main",
+    "fix/issue-694-test-backend-add-flask-route-tests-for-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-720-feat-contracts-allow-reactivating-a-deprecated",
+    "fix/issue-640-test-frontend-cover-checkpointstorage",
+    "fix/issue-688-test-backend-add-unit-tests-for-worker-job",
+    "fix/issue-694-test-backend-add-flask-route-tests-for-the",
+    "origin"
+  ]
+}
